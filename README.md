@@ -1,4 +1,6 @@
-## ╔~╤T╗С╥| python ╨Т╦Т╙╕бн╫р╣{ 
+## Е╓√Х╡©Е█■Ф°┐ python Г╤╡Х╥╞Г┬╛Х÷╡Х╙╡Г╗▀ 
 
-###╖К╪v╓Ы
-- 
+###Ф┼∙Е╫╠Г┴┤
+- https://www.slideshare.net/secret/zJYtFKtkFflVUx
+
+### Г╗▀Е╪▐Г╒╪:
