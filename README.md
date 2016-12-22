@@ -7,6 +7,7 @@
 
 ### 程式碼:
 - https://github.com/ywchiu/iti/blob/master/20161222Tutorial.ipynb
+- https://github.com/ywchiu/iti/blob/master/20161222Demo.ipynb
 
 ### Anaconda
 
